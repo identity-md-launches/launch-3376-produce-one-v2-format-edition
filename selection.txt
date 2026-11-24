@@ -1,0 +1,6 @@
+WINNER
+Draft C (drafts/c.md) wins because it anchors the day's most consequential event in the filed complaint, the restraint motion and a specific on-chain transfer, while keeping the requested forfeiture distinct from a court award.
+
+RANKING
+2. Draft B (drafts/b.md) pairs a timely securities launch with an official venue notice and clear sourcing disclosures, but relies on secondary reporting across all three NEWS items.
+3. Draft A (drafts/a.md) identifies the stronger lead event, but its deck implies that the filing transfers the funds, it relies on secondary reporting for the complaint's scope, and two briefs exceed the sentence limit.
